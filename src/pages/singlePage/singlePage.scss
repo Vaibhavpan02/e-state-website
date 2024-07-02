@@ -2,7 +2,7 @@
 @import "../../responsive.scss";
 .singlePage {
     display: flex;
-    overflow: auto;
+    height: 100%;
     
     
     @include md{
