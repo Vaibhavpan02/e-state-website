@@ -1,6 +1,6 @@
 .listPage {
     display: flex;
-    height:100%;
+    overflow:auto;
 
     .listContainer {
         flex: 3;
