@@ -2,8 +2,8 @@
 @import "../../responsive.scss";
 .singlePage {
     display: flex;
-    height: 100%;
-    
+    overflow: auto;
+
     
     @include md{
         flex-direction: column;
@@ -17,7 +17,7 @@
 
         @include sm{
             padding-right: 0px;
-            overflow: auto;
+            overflow: hidden;
            
         }
 
