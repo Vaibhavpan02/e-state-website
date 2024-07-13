@@ -7,7 +7,8 @@ a{
     text-decoration: none;
     color: inherit;
 }
-body{
-    font-family: "lato",sans-serif;
-    overflow: hidden;
-}
+body {
+    font-family: "lato", sans-serif;
+    overflow-y: auto;
+    overscroll-behavior: none;
+  }

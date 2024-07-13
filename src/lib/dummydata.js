@@ -122,6 +122,6 @@ export const singlePostData={
 };
 export const userData={
     id:1,
-    name:"John Doe",
+    name:"Arun Singh",
     img:"https://tse3.mm.bing.net/th?id=OIP.h0hPZzAziPf3v-srHQTdWQHaHa&pid=Api&P=0&h=180",
 }

@@ -1,4 +1,5 @@
 import SearchBar from '../../components/searchBar/SearchBar';
+import Footer from '../footer/footer';
 import './homePage.scss'
 
 function HomePage(){
@@ -27,8 +28,8 @@ function HomePage(){
             
             </div>
             <div className="imgContainer">
-                <img src='/bg.png'alt=''/>
-            </div>
+        <img src='https://images.pexels.com/photos/65438/pexels-photo-65438.jpeg' alt='Real estate background' />
+      </div>
         </div>
     )
 }
